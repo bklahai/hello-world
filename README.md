@@ -1,2 +1,4 @@
 # hello-world
-My First Repository
+
+Hi
+I am Bockarie. I love Python Programming
